@@ -1,9 +1,11 @@
-# <img src="instructions/screenshots/logo.png" width="30px" height="30px"/> EATAPP 
+# <img src="instructions/screenshots/logo.png" width="30px" height="30px"/> EATAPP
   A website that ranks meals from restaurants in your area by price, ratings and distance
 
 ## Features
 
   - Latest version
+
+  <iframe src='https://gfycat.com/ifr/PlaintiveUnkemptBlackrussianterrier' frameborder='0' scrolling='no' allowfullscreen width='640' height='370'></iframe>
 
 ## Screenshots
 
