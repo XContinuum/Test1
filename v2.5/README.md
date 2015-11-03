@@ -13,5 +13,12 @@
 
   <img src="instructions/screenshots/database/SCHEDULE.png" width="30%"/> <img src="instructions/screenshots/database/RESTAURANTS.png" width="30%"/> <img src="instructions/screenshots/database/CHAIN_OWNER.png" width="30%"/> <img src="instructions/screenshots/database/MENUS.png" width="30%"/> <img src="instructions/screenshots/database/PROJECT_STATS.png" width="30%"/> <img src="instructions/screenshots/database/SEARCHES.png" width="30%"/>
 
+## Languages
+
+  - HTML/CSS
+  - Javascript and JQuery for the client side
+  - PHP for the server side
+  - MySQL for the database
+
 ## Contributors
   Michel Balamou
