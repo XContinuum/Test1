@@ -3,11 +3,7 @@
 
 ## Screenshots
 
-  <img src="instructions/screenshots/index.png" width="30%"/> <img src="instructions/screenshots/login.png" width="30%"/> <img src="instructions/screenshots/sing_up.png" width="30%"/>
-
-  Database:
-
-  <img src="instructions/screenshots/FA_RESTORANTS.png" width="30%"/> <img src="instructions/screenshots/FA_MENUS.png" width="30%"/>
+  <img src="screenshots/login.png" width="30%"/> <img src="screenshots/register.png" width="30%"/>
 
 ## Contributors
   Michel Balamou
