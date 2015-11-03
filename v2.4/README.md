@@ -8,6 +8,7 @@
   - Import/export menus un XML format
   - Rotating icon when searching (pizza)
   - New final database changes added
+  - New login and sign up designs
 
 ## Screenshots
 
