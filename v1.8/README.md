@@ -3,8 +3,10 @@
 
 ## Features
 
+  - New gradient background
   - Time picking (for restaurant schedules)
   - Image cropping
+  - Scheduling added 
 
 ## Screenshots
 
