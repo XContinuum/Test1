@@ -1,4 +1,4 @@
-# <img src="instructions/screenshots/logo.png" width="26px" height="26px"/> EATAPP 
+# EATAPP <img src="instructions/screenshots/logo.png" width="26px" height="26px"/>
   A website that ranks meals from restaurants in your area by price, ratings and distance
 
 ## Features
