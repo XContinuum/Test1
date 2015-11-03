@@ -4,6 +4,7 @@
 ## Features
 
   - New blue design
+  - Map added
 
 ## Screenshots
 

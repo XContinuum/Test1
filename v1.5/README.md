@@ -3,7 +3,7 @@
 
 ## Features
 
-  -
+  - Can upload menu pictures
 
 ## Screenshots
 

@@ -3,7 +3,8 @@
 
 ## Features
 
-  -
+  - New orange design
+  - Added .htaccess (eatapp.ca/username)
 
 ## Screenshots
 
