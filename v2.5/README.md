@@ -7,8 +7,9 @@
 
   ![2015-02-20 11_36_09](instructions/screenshots/eatapp.gif)
 
-  <img align="center" src="instructions/screenshots/eatapp.gif"/>
-
+  <p align="center">
+  <img src="instructions/screenshots/eatapp.gif"/>
+  </p>
 
 ## Screenshots
 
