@@ -7,6 +7,7 @@
   - Added OCR (optical character recognition) to the admin panel for Menus parsing
   - Import/export menus un XML format
   - Rotating icon when searching (pizza)
+  - New final database changes added
 
 ## Screenshots
 
@@ -14,7 +15,7 @@
 
 ## Database
 
-  <img src="instructions/screenshots/database/RESTAURANTS.png" width="30%"/> <img src="instructions/screenshots/database/MENUS.png" width="30%"/> <img src="instructions/screenshots/database/CHAIN_OWNER.png" width="30%"/> <img src="instructions/screenshots/database/PROJECT_STATS.png" width="30%"/> <img src="instructions/screenshots/database/SCHEDULE.png" width="30%"/> <img src="instructions/screenshots/database/SEARCHES.png" width="30%"/>
+  <img src="instructions/screenshots/database/SCHEDULE.png" width="30%"/> <img src="instructions/screenshots/database/RESTAURANTS.png" width="30%"/> <img src="instructions/screenshots/database/MENUS.png" width="30%"/> <img src="instructions/screenshots/database/CHAIN_OWNER.png" width="30%"/> <img src="instructions/screenshots/database/PROJECT_STATS.png" width="30%"/> <img src="instructions/screenshots/database/SEARCHES.png" width="30%"/>
 
 ## Contributors
   Michel Balamou
