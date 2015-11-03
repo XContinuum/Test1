@@ -5,8 +5,10 @@
 
   - Latest version
 
+  <p align="center">
   ![2015-02-20 11_36_09](instructions/screenshots/eatapp.gif)
-
+  </p>
+  
 ## Screenshots
 
   <img src="instructions/screenshots/index/index.png" width="30%"/> <img src="instructions/screenshots/login.png" width="30%"/> <img src="instructions/screenshots/sign_up/sign_up.png" width="30%"/>
