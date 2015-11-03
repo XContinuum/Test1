@@ -14,4 +14,4 @@
   <img src="instructions/screenshots/FA_RESTORANTS.png" width="30%"/> <img src="instructions/screenshots/FA_MENUS.png" width="30%"/> <img src="instructions/screenshots/FA_ADMIN_PANEL.png" width="30%"/>
 
 ## Contributors
-  Michel Balamou
+  :bowtie: Michel Balamou

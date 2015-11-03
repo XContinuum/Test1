@@ -6,4 +6,4 @@
   <img src="screenshots/login.png" width="30%"/> <img src="screenshots/register.png" width="30%"/>
 
 ## Contributors
-  Michel Balamou
+  :bowtie: Michel Balamou

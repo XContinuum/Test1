@@ -21,4 +21,4 @@
   - MySQL for the database
 
 ## Contributors
-  Michel Balamou
+  :bowtie: Michel Balamou
