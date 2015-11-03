@@ -7,7 +7,7 @@
 
   Database:
 
-  <img src="https://i.imgur.com/3YHcX4C.png" width="20%"/> <img src="https://i.imgur.com/xb3ioi0.png" width="20%"/>
+  <img src="instructions/screenshots/FA_RESTORANTS.png" width="20%"/> <img src="instructions/screenshots/FA_MENUS.png" width="20%"/>
 
 ## Contributors
   Michel Balamou
