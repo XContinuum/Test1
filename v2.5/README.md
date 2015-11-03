@@ -5,8 +5,7 @@
 
   - Latest version
 
-  ![2015-02-20 11_36_09](https://thumbs.gfycat.com/PlaintiveUnkemptBlackrussianterrier-size_restricted.gif)
-
+  ![2015-02-20 11_36_09](instructions/screenshots/eatapp.gif)
 
 ## Screenshots
 
