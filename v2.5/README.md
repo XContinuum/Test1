@@ -7,6 +7,12 @@
 
   <iframe src='https://gfycat.com/ifr/PlaintiveUnkemptBlackrussianterrier' frameborder='0' scrolling='no' allowfullscreen width='640' height='370'></iframe>
 
+
+  <div style='position:relative;padding-bottom:54%'><iframe src='https://gfycat.com/ifr/PlaintiveUnkemptBlackrussianterrier' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0' allowfullscreen></iframe></div>
+
+
+  <div class='gfyitem' data-id=PlaintiveUnkemptBlackrussianterrier></div>
+
 ## Screenshots
 
   <img src="instructions/screenshots/index/index.png" width="30%"/> <img src="instructions/screenshots/login.png" width="30%"/> <img src="instructions/screenshots/sign_up/sign_up.png" width="30%"/>
