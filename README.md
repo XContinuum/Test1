@@ -3,7 +3,7 @@
 
 ## Screenshots
 
-  <img src="instructions/screenshots/index" width="20%"/> <img src="instructions/screenshots/login.png" width="20%"/> <img src="instructions/screenshots/sing_up" width="20%"/>
+  <img src="instructions/screenshots/index.png" width="20%"/> <img src="instructions/screenshots/login.png" width="20%"/> <img src="instructions/screenshots/sing_up.png" width="20%"/>
 
   Database:
 
