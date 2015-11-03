@@ -5,14 +5,8 @@
 
   - Latest version
 
-  <iframe src='https://gfycat.com/ifr/PlaintiveUnkemptBlackrussianterrier' frameborder='0' scrolling='no' allowfullscreen width='640' height='370'></iframe>
-
-
-  <div style='position:relative;padding-bottom:54%'><iframe src='https://gfycat.com/ifr/PlaintiveUnkemptBlackrussianterrier' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0' allowfullscreen></iframe></div>
-
   ![2015-02-20 11_36_09](https://thumbs.gfycat.com/PlaintiveUnkemptBlackrussianterrier-size_restricted.gif)
 
-  <div class='gfyitem' data-id=PlaintiveUnkemptBlackrussianterrier></div>
 
 ## Screenshots
 
